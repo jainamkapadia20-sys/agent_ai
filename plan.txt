@@ -1,0 +1,5 @@
+Health Management and Tracking System for people who are health conscious and want to gain muscle, but find it difficult to track and maintain their workouts and food intake 
+
+Medicine Tracker Agent for people with old age, made for caretakers who have multiple clients, easier to track their medicines and prescriptions 
+
+Car maintenance DIY agent, user can explain, upload photo, insert obd sensor to car, get a full diagnosis back and ai agent tells what does not work, needs to be replaced or repaired, can have a conversation with the ai agent incase user needs help 
